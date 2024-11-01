@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\nqm_products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\nqm_products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\nqm_products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\nqm_products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\nqm_users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\nqm_users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\nqm_products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\nqm_products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_customer_supportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_customer_supportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_order_itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_order_itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\controllers\\nqm_userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\controllers\\nqm_userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|c:\\users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5CAAF3DE-6911-49E7-92C0-360240597C5F}|wepbanquanao\\wepbanquanao.csproj|solutionrelative:wepbanquanao\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\NQM_Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Products\\Create.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\NQM_Products\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:16:29.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\NQM_Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Users\\Index.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\NQM_Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:13:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\NQM_Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Products\\Index.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\NQM_Products\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:07:26.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\NQM_Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\NQM_Products\\Edit.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\NQM_Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:07:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:05:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:04:50.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "wepbanquanao\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "wepbanquanao\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:04:46.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NQM_CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_CategoriesController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_CategoriesController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_CategoriesController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:04:43.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NQM_Customer_SupportController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_Customer_SupportController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_Customer_SupportController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_Customer_SupportController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_Customer_SupportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:04:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NQM_OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_OrdersController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_OrdersController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_OrdersController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:04:10.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NQM_Order_ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_Order_ItemsController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_Order_ItemsController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_Order_ItemsController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_Order_ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:03:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NQM_PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_PaymentsController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_PaymentsController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_PaymentsController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:03:40.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:03:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NQM_ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_ProductsController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_ProductsController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_ProductsController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:03:17.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NQM_UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_UsersController.cs",
+              "RelativeDocumentMoniker": "wepbanquanao\\Controllers\\NQM_UsersController.cs",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Controllers\\NQM_UsersController.cs",
+              "RelativeToolTip": "wepbanquanao\\Controllers\\NQM_UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:02:43.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "wepbanquanao\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\manh5\\source\\repos\\wepbanquanao\\wepbanquanao\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "wepbanquanao\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-01T11:59:28.501Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

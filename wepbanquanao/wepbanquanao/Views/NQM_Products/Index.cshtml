@@ -1,0 +1,96 @@
+﻿@model IEnumerable<wepbanquanao.Models.Product>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('@Url.Content("~/images/5.jpg")') no-repeat center center fixed;
+            background-size: cover;
+            color: #333;
+        }
+
+        .navbar {
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 10px 20px;
+        }
+
+
+
+        .navbar-nav .nav-link {
+            color: #fff !important;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #ffe135 !important;
+        }
+
+     
+
+        .table th, .table td {
+            vertical-align: middle;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark">
+    </nav>
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">@ViewBag.Title</h2>
+        <p class="text-center">
+            @Html.ActionLink("Tạo Sản Phẩm Mới", "Create", null, new { @class = "btn btn-primary" })
+        </p>
+        <table class="table table-hover table-striped shadow-lg rounded">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Hình ảnh</th>
+                    <th>@Html.DisplayNameFor(model => model.product_name)</th>
+                    <th>@Html.DisplayNameFor(model => model.description)</th>
+                    <th>@Html.DisplayNameFor(model => model.price)</th>
+                    <th>@Html.DisplayNameFor(model => model.stock)</th>
+                    <th>@Html.DisplayNameFor(model => model.created_at)</th>
+                    <th>@Html.DisplayNameFor(model => model.Category.category_name)</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="align-middle">
+                            <img src="@Url.Content("~/images/" + item.product_image)" alt="Image of @item.product_name" style="width: 100px; height: auto; border-radius: 8px;" />
+                        </td>
+                        <td class="align-middle">@Html.DisplayFor(modelItem => item.product_name)</td>
+                        <td class="align-middle">@Html.DisplayFor(modelItem => item.description)</td>
+                        <td class="align-middle">@Html.DisplayFor(modelItem => item.price) VND</td>
+                        <td class="align-middle">@Html.DisplayFor(modelItem => item.stock)</td>
+                        <td class="align-middle">
+                            @(item.created_at.HasValue ? item.created_at.Value.ToString("dd/MM/yyyy") : "N/A")
+                        </td>
+                        <td class="align-middle">@Html.DisplayFor(modelItem => item.Category.category_name)</td>
+                        <td class="align-middle">
+                            <div class="btn-group" role="group">
+                                @Html.ActionLink("Sửa", "Edit", new { id = item.product_id }, new { @class = "btn btn-sm btn-warning" })
+                                @Html.ActionLink("Chi tiết", "Details", new { id = item.product_id }, new { @class = "btn btn-sm btn-info ml-1" })
+                                @Html.ActionLink("Xóa", "Delete", new { id = item.product_id }, new { @class = "btn btn-sm btn-danger ml-1" })
+                            </div>
+                        </td>
+                    </tr>
+                }
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
